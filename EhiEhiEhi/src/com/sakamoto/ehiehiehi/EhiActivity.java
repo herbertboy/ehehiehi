@@ -13,6 +13,7 @@ public class EhiActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ehi);
         Button but = (Button)findViewById(R.id.button);
+        //commento
     }
 
     @Override
