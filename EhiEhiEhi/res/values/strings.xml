@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">EhiEhiEhi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_ehi">EhiActivity</string>
+    <string name="my_button_text">button</string>
+
+</resources>
