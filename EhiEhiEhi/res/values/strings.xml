@@ -1,9 +1,9 @@
 <resources>
 
     <string name="app_name">EhiEhiEhi</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Premi per chiamare la palla</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_ehi">EhiActivity</string>
-    <string name="my_button_text">button</string>
+    <string name="title_activity_ehi">ehi ehi ehi!!</string>
+    <string name="my_button_text">Call the ball</string>
 
 </resources>
