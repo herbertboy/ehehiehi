@@ -15,7 +15,7 @@ public class EhiActivity extends Activity {
         Button but = (Button)findViewById(R.id.button);
         //commento
     }
-
+ 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.activity_ehi, menu);
