@@ -26,7 +26,7 @@ public class EhiActivity extends Activity implements OnClickListener {
 
 	@Override
 	public void onClick(View v) {
-		MediaPlayer mp = MediaPlayer.create(getApplicationContext(),R.raw.baggytrousers);
+		MediaPlayer mp = MediaPlayer.create(getApplicationContext(),R.raw.ehiehiehi);
     	mp.start();
     	while(mp.isPlaying()){
     		//donothing
