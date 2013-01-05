@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:key="selected_file"
+        android:title="@string/settings_select_file"
+        android:entries="@array/file_titles"
+        android:entryValues="@array/file_values"
+        android:defaultValue="@string/default_selected_file" />
+</PreferenceScreen>

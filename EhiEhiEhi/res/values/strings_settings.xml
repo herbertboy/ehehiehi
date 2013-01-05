@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Settings</string>
+    <string name="settings_select_file">Seleziona il file da riprodurre</string>
+    <string name="default_selected_file">2</string>
+    
+    <string-array name="file_titles">
+        <item>Single ehi!</item>
+        <item>Triple ehi!</item>
+    </string-array>
+    <string-array name="file_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
